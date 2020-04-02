@@ -8,7 +8,7 @@ HEAD-BAND:
 1) It is larger in order to fit a 260 mm width sheet (I cut the A4 sheets, but if you prefer can leave them as they are)
 2) The distance between the pins has been modified in order to fit a 8-8-8 cm preforated A4 sheet
 3) The external pins are slightly shorter to simplify the linking to the sheet.
-4) Removed every slot, including the engraved writings, in order to avoid impurity retention.
+4) Removed all the slots, including the engraved writings, in order to avoid impurity retention.
 
 Lower renforcement:
 1) Now is a 2 pin design to make easier the punches on sheet.
