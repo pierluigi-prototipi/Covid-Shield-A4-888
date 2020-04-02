@@ -8,6 +8,7 @@ HEAD-BAND:
 1) It is larger in order to fit a 260 mm width sheet (I cut the A4 sheets, but if you prefer can leave them as they are)
 2) The distance between the pins has been modified in order to fit a 8-8-8 cm preforated A4 sheet
 3) The external pins are slightly shorter to simplify the linking to the sheet.
+4) Removed every slot, including the engraved writings, in order to avoid impurity retention.
 
 Lower renforcement:
 1) Now is a 2 pin design to make easier the punches on sheet.
@@ -29,6 +30,7 @@ FASCIA PER LA TESTA:
 1) È leggermente più grande per adattarsi a un foglio di larghezza 260 mm (Rifilo i fogli A4 a 260 mm, ma se preferite si possono lasciare di 297 mm).
 2) La distanza tra i perni è stata modificata per adattarsi a un foglio A4 preforato a 8-8-8 cm.
 3) I pin esterni sono leggermente più corti per semplificare il collegamento al foglio.
+4) Rimosse tutte le tasche, incluse le scritte incise, per evitare zone di possibile deposito di impurità.
 
 Rinforzo inferiore:
 1) Ora ha un design a 2 pin per facilitare la perforatura del foglio grazie all'utilizzo della spaziatura standard italiana di 8 cm.
