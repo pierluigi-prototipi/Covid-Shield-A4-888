@@ -19,7 +19,8 @@ SHIELD:
 THIS EQUIPMENT HAS NOT BEEN PROFESSIONALLY TESTED AND IS NOT CERTIFIED! Nevertheless I printed about twenty pieces in PLA and I find it usable, but this is just my opinion.
 
 VERSIONE ITALIANA: 
-Visiera protettiva basata su foglio A4 in acetato con fori distanziati di 8 cm. Le istruzioni per tagliare i fogli sono disponibili nel disegno pdf.
+
+ Visiera protettiva basata su foglio A4 in acetato con fori distanziati di 8 cm. Le istruzioni per tagliare i fogli sono disponibili     nel disegno pdf.
 
 Il punto di partenza di questo progetto è il famoso Prusa Protector FaceShield RC3. Poichè ho trovato difficile eseguire i fori su un foglio A4 nella posizione corretta con il design originale, l'ho modificato, arrivando al modello che allego.
 Ecco i principali cambiamenti rispetto al Prusa RC3:
@@ -31,12 +32,12 @@ FASCIA PER LA TESTA:
 
 Rinforzo inferiore:
 1) Ora ha un design a 2 pin per facilitare la perforatura del foglio grazie all'utilizzo della spaziatura standard italiana di 8 cm.
-2) I pin sono più lunghi, e con due inclinazioni differenti sul bordo inferiore e superiore, per aumentare la stabilità sul foglio senza compromettere eccessivamente la facilità di montaggio.
+2) I pin sono più lunghi e con due inclinazioni differenti sul bordo inferiore e superiore, al fine di rendere più solido il collegamento al foglio, senza compromettere eccessivamente la facilità di montaggio.
 
 SCUDO:
 1) Il punto di partenza è un comune foglio di acetato A4, spesso circa 0,2 mm. Forse sarebbe preferibile uno spessore maggiore.
 
-QUESTO EQUIPAGGIAMENTO NON E' STATO TESTATO PROFESSIONALMENTE E NON E' CERTIFICATO! Nonostante ciò ho stampato circa una ventina di pezzi in PLA e li trovo perfettamente utilizzabili. Ma questa è una mia opinione.
+QUESTO DISPOSITIVO NON E' STATO TESTATO PROFESSIONALMENTE E NON E' CERTIFICATO! Nonostante ciò ho stampato circa una ventina di pezzi in PLA e li trovo perfettamente utilizzabili. Ma questa è una mia opinione.
 
 
 
